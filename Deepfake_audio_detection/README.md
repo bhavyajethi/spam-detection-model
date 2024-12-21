@@ -32,16 +32,17 @@ Ensure the following are installed:
 - Seaborn
 - TensorFlow/Keras
 
-## **Installation Steps**
-
 1. **Clone the repository**:  
    ```bash
    git clone https://github.com/bhavyajethi/deepfake-audio-classification.git
 
-2. **Navigate to the project directory**:
-```bash
-cd deepfake-audio-classification
+2. **Navigate to the project directory**:  
+   ```bash
+   cd deepfake-audio-classification
 
-3. **Install dependencies**:
-```bash
-pip install -r requirements.txt
+3. **Install Dependencies**:  
+   ```bash
+   pip install -r requirements.txt
+
+
+

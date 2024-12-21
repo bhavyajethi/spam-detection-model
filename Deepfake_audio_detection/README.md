@@ -31,7 +31,7 @@ Ensure the following are installed:
 - Matplotlib
 - Seaborn
 - TensorFlow/Keras
-- 
+  
 **## Installation**
 **### Steps**
 
@@ -43,6 +43,6 @@ Ensure the following are installed:
 ```bash
 cd deepfake-audio-classification
 
-4. **Install dependencies**
-```.bash
+3. **Install dependencies**
+```bash
 pip install -r requirements.txt

@@ -39,8 +39,10 @@ Ensure the following are installed:
    ```bash
    git clone https://github.com/your-username/deepfake-audio-classification.git
 
-2. **Navigate to the project directory**
+2. **Navigate to the project directory**:
+```bash
 cd deepfake-audio-classification
 
-3. **Install dependencies**
+4. **Install dependencies**
+```.bash
 pip install -r requirements.txt

@@ -1,0 +1,11 @@
+# Ignore the entire Flight price prediction project folder
+Flight price prediction/
+
+# General ignores for Streamlit projects
+# Ignore Python virtual environments
+venv/
+.venv/
+
+# Ignore local Python cache and compiled files
+__pycache__/
+*.pyc
